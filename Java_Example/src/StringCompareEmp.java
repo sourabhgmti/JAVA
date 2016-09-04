@@ -7,5 +7,8 @@ public class StringCompareEmp{
       System.out.println( str.compareTo(anotherString) );
       System.out.println( str.compareToIgnoreCase(anotherString) );
       System.out.println( str.compareTo(objStr.toString()));
+   
+      System.out.println("Test 1");
    }
+   
 }

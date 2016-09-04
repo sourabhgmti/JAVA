@@ -10,7 +10,12 @@ public class StringCompareEmp{
    
       System.out.println("Test 1");
       
-      System.out.println("Test 2");
+      System.out.println("Test 2");  display();
    }
    
+   private static void display()
+   {
+	   
+	   System.out.println("Hello how r u??????????????/");
+   }
 }

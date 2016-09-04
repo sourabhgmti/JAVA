@@ -8,9 +8,12 @@ public class StringCompareEmp{
       System.out.println( str.compareToIgnoreCase(anotherString) );
       System.out.println( str.compareTo(objStr.toString()));
    
+      System.out.println("------------------------------------------------");
       System.out.println("Test 1");
       
       System.out.println("Test 2");
+      
+      System.out.println("------------------------------------------------:)");
    }
    
 }

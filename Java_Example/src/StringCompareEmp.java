@@ -14,6 +14,9 @@ public class StringCompareEmp{
       System.out.println("Test 2");
       
       System.out.println("------------------------------------------------:)");
+      
+      //Sonar install and config
+      //https://www.youtube.com/watch?v=y49luBErHBk
    }
    
 }
